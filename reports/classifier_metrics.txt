@@ -1,0 +1,9 @@
+Accuracy: 81.97%
+Macro Precision: 68.30%
+Macro Recall: 69.40%
+Macro F1: 68.72%
+No DR: P=98.3 R=98.8 F1=98.6 n=172
+Mild NPDR: P=65.9 R=72.5 F1=69.0 n=40
+Moderate NPDR: P=77.3 R=72.1 F1=74.6 n=104
+Severe NPDR: P=42.3 R=50.0 F1=45.8 n=22
+Proliferative DR: P=57.7 R=53.6 F1=55.6 n=28
