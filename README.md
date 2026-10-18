@@ -167,18 +167,7 @@ See [REPORT.md](REPORT.md) for the detailed project report template suitable for
 
 ---
 
-## Citation
 
-```
-@project{retinaai-dr-detection,
-  title = {RetinaAI: Diabetic Retinopathy Detection System},
-  author = {[Your Name]},
-  year = {2026},
-  description = {End-to-end deep learning system for DR detection and analysis}
-}
-```
-
----
 
 ## License
 
